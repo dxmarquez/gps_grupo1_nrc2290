@@ -1,13 +1,7 @@
-# f_gps_tracker
+# Entrega de reto 4 MisiónTic
 
-Un template para una aplicación de registro de ubicación usando la Hive y GeoLocator
+Ejercicio resuelto del reto 4 de MisiónTic haciendo aplicación de Android con funcionalidades de GPS.
 
-Video: https://uninorte-my.sharepoint.com/:v:/g/personal/sastoquek_uninorte_edu_co/EZXEAMfBezFBo72vHb8QekUBup2-X97GABWyk_9XPiH0nA?e=YgUBV0
+Muestra de funcionamiento en Android:
 
-Funcional con Android, iOS y Web
-
-![Tracker](https://user-images.githubusercontent.com/25647254/192416251-fdae4ea5-3149-4c08-bd3b-b37e23c48f34.gif)
-
-Solución:
-https://github.com/dxmarquez/gps_grupo1_nrc2290
-Ver archivo reto4.gif para la desmotración de funcionalidad de la herramienta
+![Tracker](https://github.com/dxmarquez/gps_grupo1_nrc2290/blob/main/Reto4.gif?raw=true)
