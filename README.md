@@ -10,3 +10,4 @@ Funcional con Android, iOS y Web
 
 Solución:
 https://github.com/dxmarquez/gps_grupo1_nrc2290
+Ver archivo reto4.gif para la desmotración de funcionalidad de la herramienta
